@@ -2,7 +2,7 @@
 
 ```javascript
 import {skillUp} from ./node_modules/me/skill.js
-let resources = True;
+let resources = true;
 while(resources){
   skillUp();
 }
